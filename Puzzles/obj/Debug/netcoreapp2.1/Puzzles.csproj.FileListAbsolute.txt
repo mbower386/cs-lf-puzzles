@@ -1,0 +1,11 @@
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-puzzles/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.deps.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-puzzles/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.runtimeconfig.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-puzzles/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.runtimeconfig.dev.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-puzzles/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-puzzles/Puzzles/bin/Debug/netcoreapp2.1/Puzzles.pdb
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-puzzles/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.csprojAssemblyReference.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-puzzles/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.csproj.CoreCompileInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-puzzles/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.AssemblyInfoInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-puzzles/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.AssemblyInfo.cs
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-puzzles/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-puzzles/Puzzles/obj/Debug/netcoreapp2.1/Puzzles.pdb
